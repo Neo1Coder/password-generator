@@ -14,10 +14,9 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 function generatePassword() {
     var length = prompt("Input password Length between 8 and 128");
-    if (length < 8 || length > 128) {
-        prompt("Please Input a length more than 8 and less than 128")
+    while (length < 8 || length > 128) {
+        var length = prompt("Please Input a length more than 8 and less than 128");
     }
-
     var isLower = confirm("Are lower case letters included ?");
     var isUpper = confirm("Are uppper case letters included ?");
     var isNumeric = confirm("Are numeric values included ?");
