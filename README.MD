@@ -34,5 +34,5 @@ THEN the password is either displayed in an alert or written to the page
 
 [Git Hub Repo](https://github.com/Neo1Coder/password-generator)
 
-![website image]()
+![website image](./assets/images/password2.png)
 
