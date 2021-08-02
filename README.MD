@@ -30,9 +30,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ```
 
-[Deployed Link](https://neo1coder.github.io/password-generator/)
+[Deployed Link](https://mus-ali1.github.io/password-generator/)
 
-[Git Hub Repo](https://github.com/Neo1Coder/password-generator)
+[Git Hub Repo](https://github.com/mus-ali1/password-generator)
 
 ![website image](./assets/images/password2.png)
 
